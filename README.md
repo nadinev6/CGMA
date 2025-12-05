@@ -80,4 +80,4 @@ This repository contains the archived source code for the custom-built website:
 * **Nadine van der Haar**
 
 ---
-This README is now complete and highly detailed, highlighting all your technical and creative contributions!
+
