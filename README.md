@@ -80,5 +80,3 @@ This repository contains the archived source code for the custom-built website:
 * **Nadine van der Haar**
 
 ---
-
-This is the most concise and professional version. Let me know if you would like help drafting a short description to pin this repository to your GitHub profile.
