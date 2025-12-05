@@ -6,20 +6,20 @@
 
 > This repository serves as an archive of the official website for Central Gauteng Masters Athletics (CGMA), a South African athletics organization for athletes aged 30 and above.
 >
-> **Role:** Website Developer & Administrator
+> **Role:** Website Developer, Administrator, & Photographer
 > **Duration:** November 2024 – November 2025
 
 ---
 
 ## 🎯 Project Overview
 
-This project involved the development, administration, and maintenance of the CGMA website. The primary goal was to provide current, accurate information for registered athletes, prospective members, and the wider athletics community.
+This project involved the full lifecycle of the CGMA website: development, content administration, maintenance, and visual media management. The primary goal was to provide current, accurate information for registered athletes, prospective members, and the wider athletics community.
 
-Key functionalities and improvements implemented during the term included:
+Key responsibilities and improvements implemented during the term included:
+* **Media Management:** Handled **photography** for the website, including capturing, editing, and optimizing images for performance.
 * **Enhanced Usability:** Introduced **senior-citizen friendly registration** features and **simplified the manual registration process**, significantly improving accessibility and administrative efficiency.
 * **Data Presentation:** Developed a visible interface for showcasing **athletics record statistics** (Total Records, Male, Female, M60+), ensuring data transparency for members.
-* Event listings and registration information, rules, standards, and record-keeping documentation.
-* Content management for committee details, history of Masters Athletics, and sponsor/affiliate information.
+* Content management for event listings, rules, committee details, and sponsor/affiliate information.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadinev6/CGMA/refs/heads/main/11shots_so.png?raw=true" alt="Central Gauteng Masters Athletics website homepage screenshot" width="700"/>
@@ -67,7 +67,7 @@ To demonstrate the site's overall visibility and success during the administrati
 This repository contains the archived source code for the custom-built website:
 
 * `css/`: Stylesheets for visual design and layout.
-* `images/`: All images and assets used on the site.
+* `images/`: All images and assets used on the site (including original photography).
 * `js/`: JavaScript files for client-side interactions.
 * `index.html`: The main landing page file.
 * `*.html`: Additional static content pages (e.g., results, forms, about).
@@ -80,3 +80,4 @@ This repository contains the archived source code for the custom-built website:
 * **Nadine van der Haar**
 
 ---
+This README is now complete and highly detailed, highlighting all your technical and creative contributions!
